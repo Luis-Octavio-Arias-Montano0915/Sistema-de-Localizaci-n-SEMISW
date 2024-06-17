@@ -9,3 +9,8 @@ El sistema cuenta con una interfaz para su uso en el SO de Android (visualizar c
 Además, en caso de un peligro, el sistema cuenta con la posibilidad de reportarlo rápidamente a la policia, envíandole su ubicación y poder salvaguardar a la persona o pertenencia que cuente con el localizador.
 Es posible que el historial de ubicaciones se guarde en una base de datos para poder verificar hacia donde se dirigió o el camino que tomó.
 Podrás ver, en las distintas carpetas los archivos del sistema.
+
+
+Tiene dos interfaces de usuario: INTERFAZ PARA LA VICTIMA y la INTERFAZ DE POLICIA (estas interfaces son diseñadas para el SO Android) y programadas en react native.
+
+Proyecto en desarrollo****
